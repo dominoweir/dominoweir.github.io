@@ -1,0 +1,30 @@
+{
+  "name": "dominoweir",
+  "version": "1.0.0",
+  "description": "Domino Weir's personal website",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "bootstrap": "4.1.1",
+    "devicons": "^1.8.0",
+    "jquery": "3.3.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominoweir/personal-website"
+  },
+  "author": "Domino Weir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominoweir/personal-website/issues"
+  },
+  "homepage": "https://github.com/dominoweir/personal-website#readme"
+}
