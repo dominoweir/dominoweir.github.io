@@ -79,6 +79,7 @@ h2 {
     display: flex;
     margin: auto auto 0;
     padding: 0.5rem;
+    min-height: 50%;
   }
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
@@ -88,7 +89,6 @@ h2 {
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
-    flex-grow: 0;
     width: 100%;
     margin-bottom: auto;
   }
@@ -102,8 +102,9 @@ h2 {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
-  #sideNav .navbar-toggler  {
-    display: block !important;
+  .d-lg-block {
+    display: flex !important;
+    align-items: flex-end;
   }
 }
 
