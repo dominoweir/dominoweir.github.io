@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: orange;
+  color: purple;
 }
 
 .list-social-icons a .fa-lg {
@@ -131,17 +131,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: orange !important;
+  background-color: purple !important;
 }
 
 .text-primary {
-  color: orange !important;
+  color: purple !important;
 }
 
 a {
-  color: orange;
+  color: purple;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: orange;
 }
