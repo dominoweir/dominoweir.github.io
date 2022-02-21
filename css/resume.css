@@ -153,3 +153,22 @@ a:hover, a:focus, a:active {
 .show {
   height: unset;
 }
+
+q {
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.li-value {
+  margin-bottom: 8px;
+}
+
+.value-icon {
+  color: pink;
+}
+
+.quote-author {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
